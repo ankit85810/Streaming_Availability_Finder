@@ -2,6 +2,10 @@
 
 A Streamlit web app to search for movies and series, view their overviews, posters, and find out where you can stream them, powered by the [Streaming Availability API](https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability).
 
+## Access here
+
+Here is the [link](https://movie-find.streamlit.app/) for checking out the app
+
 ## 🚀 Features
 
 - Search for movies or series by title
